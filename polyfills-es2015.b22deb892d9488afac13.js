@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{2:function(n,o,w){n.exports=w("hN/g")},"hN/g":function(n,o){window.global=window}},[[2,0]]]);
